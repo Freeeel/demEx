@@ -1,0 +1,17 @@
+C:\Users\Дмитрий\source\repos\demEx\demEx\bin\Debug\demEx.exe.config
+C:\Users\Дмитрий\source\repos\demEx\demEx\bin\Debug\demEx.exe
+C:\Users\Дмитрий\source\repos\demEx\demEx\bin\Debug\demEx.pdb
+C:\Users\Дмитрий\source\repos\demEx\demEx\obj\Debug\demEx.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\demEx\demEx\obj\Debug\MainWindow.g.cs
+C:\Users\Дмитрий\source\repos\demEx\demEx\obj\Debug\App.g.cs
+C:\Users\Дмитрий\source\repos\demEx\demEx\obj\Debug\demEx_MarkupCompile.cache
+C:\Users\Дмитрий\source\repos\demEx\demEx\obj\Debug\demEx_MarkupCompile.lref
+C:\Users\Дмитрий\source\repos\demEx\demEx\obj\Debug\MainWindow.baml
+C:\Users\Дмитрий\source\repos\demEx\demEx\obj\Debug\demEx.g.resources
+C:\Users\Дмитрий\source\repos\demEx\demEx\obj\Debug\demEx.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\demEx\demEx\obj\Debug\demEx.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\demEx\demEx\obj\Debug\demEx.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\demEx\demEx\obj\Debug\demEx.exe
+C:\Users\Дмитрий\source\repos\demEx\demEx\obj\Debug\demEx.pdb
+C:\Users\Дмитрий\source\repos\demEx\demEx\obj\Debug\ClientOrderWindow.g.cs
+C:\Users\Дмитрий\source\repos\demEx\demEx\obj\Debug\ClientOrderWindow.baml
